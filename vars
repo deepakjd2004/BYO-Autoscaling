@@ -1,5 +1,5 @@
 # linode vars
-ssh_keys: ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***
+ssh_keys: ssh-rsa dn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw==
 prefix: app_node
 cluster_name: POC
 type: g6-nanode-1

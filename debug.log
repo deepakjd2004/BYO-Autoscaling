@@ -643,7 +643,7 @@
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
@@ -850,7 +850,7 @@
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
@@ -1728,7 +1728,7 @@
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
@@ -1935,7 +1935,7 @@
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
@@ -2731,7 +2731,7 @@ The offending line appears to be:
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
@@ -3673,7 +3673,7 @@ The offending line appears to be:
             "api_token": "VALUE_SPECIFIED_IN_NO_LOG_PARAMETER",
             "api_version": "v4",
             "authorized_keys": [
-                "ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***"
+                "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDtIwyKfDpWAuj8tcpT25uD6Xkt+otrTiBWvZMCQc28BWP2Vek/zsbi5S9tGGIm7lNkC1s1s/DVqcywReNfefU+aAApeg2h9E008VyubeQqK10b1DjwDIbJmGGa4iSzFCasPh8XuhdIaZ1aC+1uj5ofJN2JQ9/KOf2ze1E06qUF2mLPwX5y6dTMCKGkkV+HDQlIp/F0ZTfWIjggLE4mBclcKMHrElvseKLvZzUI3MNBRadNIPSaj5Qor1SWTXc7R5scOUbhlJLFwuqAMLwZDq/Bm0BGdTeNDLtVyzCd/PPmW9UZyOzgphBcYml0qlRJ3l/SdOxf+9v3HRWy85Ljru5wRI64u55no7DQTFuedMFm0GeQYozJVfJLqMr6Ip4vD/FQnSwpeQvuokUCIJpf/m3BbPmn5aNsN72d5nd7Uu1EBKnSg5FAy7HWlxgeU2Hr6lmsZ/vGoOTvPSWUfsq572ds9jARvo6Fvmzw7iDKBqbMJqDEGLELuaHWYKa09NFBPTKs5DFqEwS1ZeKH/jKS3F68XACMCp5tyc/0deJmtPJAmp/wfzrPeodAj92q3LG3j7ztT6QIoWcMG25Ccxu8G90ss68gqdn065OFrsX301CcI3F2neJkFZBHmCli9PdmmsffmY7sZSYKSC4+mx7q6oh3X5oKct8vT9Lj5n7IOjkXKw== djha@MacBook-Pro.local"
             ],
             "backup_id": null,
             "boot_config_label": null,
