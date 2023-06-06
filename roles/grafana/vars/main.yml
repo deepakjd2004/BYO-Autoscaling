@@ -1,0 +1,3 @@
+---
+version: 5.4.3
+grafana_admin_password: "<mention_password_here>"

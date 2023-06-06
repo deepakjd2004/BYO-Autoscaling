@@ -1,0 +1,17 @@
+# linode vars
+ssh_keys: ssh-rsa ***REMOVED***+otrTiBWvZMCQc28BWP2Vek/***REMOVED******REMOVED***
+prefix: app_node
+cluster_name: POC
+type: g6-nanode-1
+region: ap-south
+image: linode/debian10
+group: app_node
+linode_tags: app
+# BEGIN INSTANCE VARS
+# hostnames
+host1: app_node1
+host2: app_node2
+# private ips
+priv_ip1: 192.168.157.85
+priv_ip2: 192.168.158.23
+# END INSTANCE VARS

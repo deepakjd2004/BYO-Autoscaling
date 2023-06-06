@@ -1,0 +1,36 @@
+---
+- name: create linodes
+  hosts: localhost
+  vars_files:
+    - vars
+    - secret_vars
+  vars:
+    labels:
+      - prometheus
+      - grafana
+      - node_exporter
+  tasks:
+    - name: Create Linodes for hosting services
+      include_tasks: create_linode.yml
+      loop: "{{ labels }}"
+      loop_control:
+        loop_var: label
+
+- name: configure prometheus, Grafana & node_exporter
+  hosts: prometheus
+  user: root
+  roles:
+    - alertmanager
+    - prometheus
+
+- name: configure prometheus, Grafana & node_exporter
+  hosts: all
+  user: root
+  roles:
+    - prometheus_node_exporter
+
+- name: configure prometheus, Grafana & node_exporter
+  hosts: grafana
+  user: root
+  roles:
+    - grafana

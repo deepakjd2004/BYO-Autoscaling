@@ -1,0 +1,23 @@
+# destroy galera linodes
+---
+- name: destroy galera linodes
+  hosts: localhost
+  vars_files:
+    - vars
+    - secret_vars
+
+  vars:
+    labels:
+      - promethesus
+      - grafana
+      - node_exporter
+
+  tasks:
+    - name: deleting linodes
+      linode.cloud.instance:
+        label: '{{ item }}'
+        api_token: '{{ token }}'
+        state: absent
+      loop: "{{ labels }}"
+      loop_control:
+        loop_var: item

@@ -1,0 +1,13 @@
+
+# BEGIN prometheus
+[prometheus]
+139.162.15.17
+# END prometheus
+# BEGIN grafana
+[grafana]
+139.144.118.150
+# END grafana
+# BEGIN node_exporter
+[node_exporter]
+139.144.118.198
+# END node_exporter
