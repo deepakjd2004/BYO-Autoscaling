@@ -1,13 +1,13 @@
 
 # BEGIN prometheus
 [prometheus]
-139.162.15.17
+139.162.xxxxx
 # END prometheus
 # BEGIN grafana
 [grafana]
-139.144.118.150
+139.144.xxxxxx
 # END grafana
 # BEGIN node_exporter
 [node_exporter]
-139.144.118.198
+139.144.xxxxxx
 # END node_exporter
